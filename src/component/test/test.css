@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+h1 {
+  background-color: lightpink;
+  margin-bottom:  20px;
+}
+.input-test {
+  background-color: rgb(18, 167, 92);
+  margin-bottom:  20px;
+}

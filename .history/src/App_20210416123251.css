@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+h1 {
+  background-color: lightpink;
+  margin-bottom:  20px;
+}
+.input-test {
+  display: inline;
+}

@@ -1,0 +1,9 @@
+.title {
+    background-color: black;
+    display: flex;
+    align-items: center;  
+}
+.title h1 {
+    color: #fff;
+    margin-right: 20px;
+}

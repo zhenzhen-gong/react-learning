@@ -1,0 +1,13 @@
+.title {
+    background-color: black;
+    display: flex;
+    align-items: center;  
+    justify-content: center;
+}
+.title h1 {
+    color: #fff;
+    margin-right: 20px;
+}
+.title input {
+    height: 50px;
+}
